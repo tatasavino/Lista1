@@ -1,0 +1,15 @@
+C:\Users\Micro\Documents\Ifes\C#\p18\bin\Debug\net6.0\p18.exe
+C:\Users\Micro\Documents\Ifes\C#\p18\bin\Debug\net6.0\p18.deps.json
+C:\Users\Micro\Documents\Ifes\C#\p18\bin\Debug\net6.0\p18.runtimeconfig.json
+C:\Users\Micro\Documents\Ifes\C#\p18\bin\Debug\net6.0\p18.dll
+C:\Users\Micro\Documents\Ifes\C#\p18\bin\Debug\net6.0\p18.pdb
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.AssemblyInfo.cs
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.dll
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\refint\p18.dll
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.pdb
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\p18.genruntimeconfig.cache
+C:\Users\Micro\Documents\Ifes\C#\p18\obj\Debug\net6.0\ref\p18.dll

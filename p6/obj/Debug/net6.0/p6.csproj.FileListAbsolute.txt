@@ -1,0 +1,15 @@
+C:\Users\Micro\Documents\Ifes\C#\p6\bin\Debug\net6.0\p6.exe
+C:\Users\Micro\Documents\Ifes\C#\p6\bin\Debug\net6.0\p6.deps.json
+C:\Users\Micro\Documents\Ifes\C#\p6\bin\Debug\net6.0\p6.runtimeconfig.json
+C:\Users\Micro\Documents\Ifes\C#\p6\bin\Debug\net6.0\p6.dll
+C:\Users\Micro\Documents\Ifes\C#\p6\bin\Debug\net6.0\p6.pdb
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.AssemblyInfo.cs
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.dll
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\refint\p6.dll
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.pdb
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\p6.genruntimeconfig.cache
+C:\Users\Micro\Documents\Ifes\C#\p6\obj\Debug\net6.0\ref\p6.dll

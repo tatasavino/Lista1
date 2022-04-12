@@ -1,0 +1,15 @@
+C:\Users\Micro\Documents\Ifes\C#\p2\bin\Debug\net6.0\p2.exe
+C:\Users\Micro\Documents\Ifes\C#\p2\bin\Debug\net6.0\p2.deps.json
+C:\Users\Micro\Documents\Ifes\C#\p2\bin\Debug\net6.0\p2.runtimeconfig.json
+C:\Users\Micro\Documents\Ifes\C#\p2\bin\Debug\net6.0\p2.dll
+C:\Users\Micro\Documents\Ifes\C#\p2\bin\Debug\net6.0\p2.pdb
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.AssemblyInfo.cs
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.dll
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\refint\p2.dll
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.pdb
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\p2.genruntimeconfig.cache
+C:\Users\Micro\Documents\Ifes\C#\p2\obj\Debug\net6.0\ref\p2.dll

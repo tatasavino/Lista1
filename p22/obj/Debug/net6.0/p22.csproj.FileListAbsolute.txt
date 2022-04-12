@@ -1,0 +1,15 @@
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.AssemblyInfo.cs
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Ifes\C#\p22\bin\Debug\net6.0\p22.exe
+C:\Users\Micro\Documents\Ifes\C#\p22\bin\Debug\net6.0\p22.deps.json
+C:\Users\Micro\Documents\Ifes\C#\p22\bin\Debug\net6.0\p22.runtimeconfig.json
+C:\Users\Micro\Documents\Ifes\C#\p22\bin\Debug\net6.0\p22.dll
+C:\Users\Micro\Documents\Ifes\C#\p22\bin\Debug\net6.0\p22.pdb
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.dll
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\refint\p22.dll
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.pdb
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\p22.genruntimeconfig.cache
+C:\Users\Micro\Documents\Ifes\C#\p22\obj\Debug\net6.0\ref\p22.dll
